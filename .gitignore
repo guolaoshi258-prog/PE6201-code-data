@@ -1,11 +1,17 @@
 .env
 .env.*
+!.env.example
 .venv/
 __pycache__/
+*.py[cod]
 .DS_Store
+._*
+.~*
+.ipynb_checkpoints/
 *.pdf
 *.docx
 *.mov
 *.mp4
 *review*rated*
+*review_key*
 human*
