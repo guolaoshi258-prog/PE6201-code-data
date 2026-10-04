@@ -1,0 +1,11 @@
+.env
+.env.*
+.venv/
+__pycache__/
+.DS_Store
+*.pdf
+*.docx
+*.mov
+*.mp4
+*review*rated*
+human*
